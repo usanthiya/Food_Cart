@@ -1,0 +1,95 @@
+
+
+[
+    {
+        "id":1,
+        "name":"Farmers Pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"images/1.jpg",
+        "latest":"No"
+    },
+    {
+        "id":2,
+        "name":"Paper Roast Dosa",
+        "amt":"65",
+        "shop":"Sri Saivihar",
+        "ftype":"Veg",
+        "pic":"images/2.png",
+        "latest":"No"
+    },
+    {
+        "id":3,
+        "name":"Alfredo Pasta",
+        "amt":"185",
+        "shop":"Lakshmi Food",
+        "ftype":"Veg",
+        "pic":"images/3.jpg",
+        "latest":"yes"
+    },
+    {
+        "id":4,
+        "name":"Rasagulla",
+        "amt":"220",
+        "shop":"Murthi cafe",
+        "ftype":"Sweets",
+        "pic":"images/4.png",
+        "latest":"No"
+    },
+    {
+        "id":5,
+        "name":"Orange Juice",
+        "amt":"70",
+        "shop":"Juice Mall",
+        "ftype":"Juice",
+        "pic":"images/5.jpg",
+        "latest":"No"
+    },
+    {
+        "id":6,
+        "name":"Halwa",
+        "amt":"77",
+        "shop":"Shri Gupta Sweets",
+        "ftype":"Sweet",
+        "pic":"images/6.png",
+        "latest":"No"
+    },
+    {
+        "id":7,
+        "name":"Vegetable Soup",
+        "amt":"123",
+        "shop":"Sru Saivihar",
+        "ftype":"Veg",
+        "pic":"images/7.png",
+        "latest":"No"
+    },
+    
+    {
+        "id":9,
+        "name":"Mandhi Briyani",
+        "amt":"299",
+        "shop":"Hajja Briyani",
+        "ftype":"Non-Veg",
+        "pic":"images/9.jpg",
+        "latest":"Yes"
+    },
+    {
+        "id":10,
+        "name":"Chicken Noodles",
+        "amt":"90",
+        "shop":"Krishna vilas",
+        "ftype":"Non Veg",
+        "pic":"images/10.jpg",
+        "latest":"No"
+    },
+    {
+        "id":11,
+        "name":"Mothi laddu",
+        "amt":"250",
+        "shop":"Casino",
+        "ftype":"Sweet",
+        "pic":"images/11.jpg",
+        "latest":"Yes"
+    }
+]
